@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": 26,
+      "full_name": "Ivan Ivanovich",
+      "total_amount": 27000000,
+      "total_qty": 61,
+      "revenue": 264000
+    },
+    {
+      "id": 27,
+      "full_name": "Sitora Nigorova",
+      "total_amount": 7015000,
+      "total_qty": 84,
+      "revenue": 418000
+    },
+    {
+      "id": 24,
+      "full_name": "Ulugbek Ulugbekov",
+      "total_amount": 7015000,
+      "total_qty": 84,
+      "revenue": 173500
+    },
+    {
+      "id": 25,
+      "full_name": "Jaxongir Fozilov",
+      "total_amount": 32450000,
+      "total_qty": 84,
+      "revenue": 315200
+    },
+
+    {
+      "id": 29,
+      "full_name": "Maftuna Fozilova",
+      "total_amount": 7015000,
+      "total_qty": 84,
+      "revenue": 219000
+    }
+  ]
+}
